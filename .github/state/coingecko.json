@@ -1550,21 +1550,6 @@
       }
     },
     {
-      "coingecko_id": "pulsara",
-      "name": "Pulsara",
-      "symbol": "SARA",
-      "assets": [
-        {
-          "chain_name": "coreum",
-          "base_denom": "usara-core1r9gc0rnxnzpq33u82f44aufgdwvyxv4wyepyck98m9v2pxua6naqr8h03z"
-        }
-      ],
-      "origin_asset": {
-        "chain_name": "coreum",
-        "base_denom": "usara-core1r9gc0rnxnzpq33u82f44aufgdwvyxv4wyepyck98m9v2pxua6naqr8h03z"
-      }
-    },
-    {
       "coingecko_id": "licore",
       "name": "liCORE",
       "symbol": "LICORE",
@@ -5235,7 +5220,7 @@
     },
     {
       "coingecko_id": "rootstock",
-      "name": "Rootstock Bitcoin",
+      "name": "Bitcoin on Rootstock",
       "symbol": "RBTC",
       "assets": [
         {
